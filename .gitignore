@@ -1,0 +1,24 @@
+# Dados de entrada com nomes e idades
+src/lista_pessoas_unicas.txt
+lista_pessoas_unicas.txt
+
+# Material acadêmico e arquivos pessoais
+*.pdf
+
+# JDK copiado para dentro do projeto
+src/Oracle_JDK-24/
+
+# Saída de compilação Java
+bin/
+*.class
+
+# Configurações e metadados de IDE
+.metadata/
+.settings/
+.classpath
+.project
+.vscode/
+
+# Arquivos do sistema operacional
+desktop.ini
+Thumbs.db
