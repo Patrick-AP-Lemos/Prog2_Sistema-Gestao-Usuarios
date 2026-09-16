@@ -1,4 +1,4 @@
-# Sistema de Gestao de Usuarios
+# Programação 2 - Sistema de Gestao de Usuarios
 
 Projeto academico desenvolvido na disciplina de Programacao 2 do curso de Ciencia da Computacao.
 
